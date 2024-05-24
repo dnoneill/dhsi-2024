@@ -1,0 +1,30 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://dnoneill.github.io/dhsi-2024/annotations/10.json",
+  "@type" : "oa:Annotation",
+  "motivation" : [ "oa:commenting" ],
+  "on" : [ {
+    "@type" : "oa:SpecificResource",
+    "full" : "https://derivativo-3.library.columbia.edu/iiif/2/presentation/10.7916/d8-fcng-k085/canvas/10.7916/d8-dg2m-rw91",
+    "selector" : {
+      "@type" : "oa:Choice",
+      "default" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=975,1918,1620,905"
+      },
+      "item" : {
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M974.58726,1917.75909l809.90356,0l0,0l809.90356,0l0,452.69718l0,452.69718l-809.90356,0l-809.90356,0l0,-452.69718z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_31f0c53f-cbd9-4060-aefd-863a7de7b418\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.07339\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "within" : {
+      "@id" : "https://derivativo-3.library.columbia.edu/iiif/2/presentation/10.7916/d8-fcng-k085/manifest",
+      "@type" : "sc:Manifest"
+    }
+  } ],
+  "resource" : [ {
+    "@type" : "dctypes:Text",
+    "chars" : "<p>test</p>",
+    "format" : "text/html"
+  } ]
+}
