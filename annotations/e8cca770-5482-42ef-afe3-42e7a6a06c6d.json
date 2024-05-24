@@ -1,0 +1,10 @@
+{
+  "body" : {
+    "type" : "TextualBody",
+    "value" : "<p>test annotation</p>"
+  },
+  "id" : "https://dnoneill.github.io/dhsi-2024/annotations/e8cca770-5482-42ef-afe3-42e7a6a06c6d.json",
+  "motivation" : "commenting",
+  "target" : "https://iiif.harvardartmuseums.org/manifests/object/299843/canvas/canvas-47174896",
+  "type" : "Annotation"
+}
