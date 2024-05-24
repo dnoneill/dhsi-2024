@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://dnoneill.github.io/dhsi-2024/annotations/10.json" ],
+  "otherContent" : [ "https://dnoneill.github.io/dhsi-2024/annotations/10.json", "https://dnoneill.github.io/dhsi-2024/annotations/e8cca770-5482-42ef-afe3-42e7a6a06c6d.json" ],
   "@id" : "https://dnoneill.github.io/dhsi-2024/annotations/collection.json",
   "label" : "All annotations loaded in dnoneill/dhsi-2024 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
